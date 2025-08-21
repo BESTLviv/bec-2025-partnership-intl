@@ -69,7 +69,7 @@ const Cart = ({ selectedPackages, customServices, servicesPrice, packagesPrice, 
   
   return (
     <div className="container pt-40 relative">
-      <h1 className="text-center text-3xl 700px:text-4xl text-bec font-black mb-8 uppercase">CART</h1>
+      <h1 className="text-center text-3xl 700px:text-4xl xl:text-[42px] text-bec font-black mb-8 uppercase">CART</h1>
       <div className="relative flex items-center 940px:flex-row flex-col justify-center mt-10 1160px:p-16 p-10 gap-1 940px:gap-20 z-10">
         <div className="absolute hidden 940px:block left-1/2 -translate-x-1/2 top-0 1160px:w-[1150px] w-[910px] 4xl:w-[1350px] -z-10">
           <Image 

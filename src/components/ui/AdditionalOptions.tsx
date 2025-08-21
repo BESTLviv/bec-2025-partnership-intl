@@ -37,7 +37,7 @@ const AdditionalOptions = ({
 
   return (
     <div className="mt-10 490px:mt-25 relative">
-      <h2 className="text-bec text-center mb-8 490px:mb-15  text-2xl 700px:text-3xl font-black 3xl:text-[42px] 4xl:text-5xl">
+      <h2 className="text-bec text-center mb-8 490px:mb-15  text-2xl 700px:text-[42px] font-black 4xl:text-5xl">
         ADDITIONAL OFFERS
       </h2>
 
@@ -107,7 +107,7 @@ const AdditionalOptions = ({
               {openTooltipId === service.id && (
                 <Modal onClose={() => setOpenTooltipId(null)}>
                   <div 
-                    className="extra_bg text-becwhite text-sm border-3 border-becwhite p-6 w-full shadow-lg relative z-[100] rounded-md"
+                    className="extra_bg text-becwhite text-sm border-2 border-bec p-6 w-full shadow-lg relative z-[100]"
                   >
                     <button
                       onClick={() => setOpenTooltipId(null)}

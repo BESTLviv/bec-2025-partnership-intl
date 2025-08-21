@@ -88,7 +88,7 @@ const Categories = () => {
             "
           />
         </div>
-        <div className="text-xl mt-20 4xl:mt-40 px-4 660px:px-0">
+        <div className="text-xl mt-40 4xl:mt-40 px-4 660px:px-0">
           <h1 className="uppercase text-center xs:text-3xl 660px:text-4xl font-black text-bec 700px:mt-15 mb-10 mt-10 700px:mb-15 3xl:text-[42px] 4xl:text-5xl">competition categories</h1>
           <div className="flex font-light flex-col lg:flex-row items-center justify-center lg:justify-between">
             <div className="flex max-w-[400px] sm:max-w-[600px] 3xl:max-w-[700px] 4xl:max-w-[800px]">

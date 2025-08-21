@@ -30,7 +30,7 @@ const Contacts = forwardRef<HTMLDivElement, object>((props, ref) => {
   return (
     <section ref={ref} className="scroll-m-28">
       <div className="container">
-        <h1 className="text-center text-2xl 700px:text-5xl text-bec font-black mb-10 uppercase">
+        <h1 className="text-center text-2xl 700px:text-[42px] 3xl:text-5xl text-bec font-black mb-10 uppercase">
           Contacts
         </h1>
         <div className="flex items-center gap-14 970px:gap-0 970px:justify-around 970px:flex-row flex-col justify-center">

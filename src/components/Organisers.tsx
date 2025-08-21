@@ -10,7 +10,7 @@
     return (
       <section className='940px:mt-40 mt-20 940px:mb-7 mb-8'>
         <div className="container mb-20 relative 4xl:mb-40">
-          <h1 className="text-center text-2xl 700px:text-5xl text-bec font-black mb-15 uppercase">About the Event Organizers</h1>
+          <h1 className="text-center text-2xl 700px:text-[42px] 3xl:text-5xl text-bec font-black mb-15 uppercase">About the Event Organizers</h1>
           <div className="flex flex-col-reverse 1060px:justify-around 1060px:flex-row 1060px:gap-0 700px:gap-20 gap-10 justify-center items-center">
             <p className='max-w-[500px] 660px:w-full w-[360px] 440px:w-[380px] text-lg 3xl:text-xl 3xl:mt-10 4xl:text-2xl 4xl:max-w-[700px]'>
               <span className='font-bold'>BEST LVIV</span> (Board of European Students of Technology) – is a local chapter of an international non-profit student organization that connects students in technical fields
