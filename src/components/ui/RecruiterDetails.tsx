@@ -1,11 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { DetailsProps } from "@/types/types";
-import { Audiowide } from "next/font/google";
-
-const awide = Audiowide({
-  weight: ['400'],
-  subsets: ['latin'],
-});
 
 const RecruiterDetails = ({ onClose, pack }: DetailsProps) => {
   const modalRef = useRef<HTMLDivElement>(null);

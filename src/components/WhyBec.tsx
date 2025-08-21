@@ -49,7 +49,7 @@ const WhyBec = () => {
               <p className="text-[12px] 700px:text-[14px] 1340px:text-base leading-relaxed 4xl:text-xl">Your company can be the first to believe in a promising idea and witness part of its implementation, by supporting participants during the development stage.</p>
             </div>
             <div className="bg-[#4F4C49] p-3 4xl:p-5 max-w-[270px] 540px:max-w-[300px] 700px:max-w-[500px] 1070px:max-w-[350px] 1160px:max-w-[450px] h-[200px] flex flex-col justify-center 4xl:max-w-[530px] 4xl:h-[260px]">
-              <h2 className="font-bold text-lg 700px:text-xl leading-snug 1160px:text-xl 4xl:text-3xl uppercase">Increase Your Company's Awareness Among Students</h2>
+              <h2 className="font-bold text-lg 700px:text-xl leading-snug 1160px:text-xl 4xl:text-3xl uppercase">Increase Your Company&apos;s Awareness Among Students</h2>
               <hr className="border-t-2 border-becwhite my-3 4xl:border-t-3"/>
               <p className="text-[12px] 700px:text-[14px] 1340px:text-base leading-relaxed 4xl:text-xl">Strengthen your reputation as an employer that actively supports the next generation of engineers.</p>
             </div>
@@ -108,7 +108,7 @@ const WhyBec = () => {
             <h1 className="uppercase font-black text-xl 1340px:text-2xl 4xl:text-3xl hidden 940px:block">Students Age: 17–21 years old</h1>
           </div>
           <div className="flex flex-col">
-            <h1 className="uppercase font-black text-base 490px:text-lg 1160px:text-xl 1340px:text-2xl 4xl:text-3xl 4xl:mb-4 ">Participants' majors:</h1>
+            <h1 className="uppercase font-black text-base 490px:text-lg 1160px:text-xl 1340px:text-2xl 4xl:text-3xl 4xl:mb-4 ">Participants&apos; majors:</h1>
             <ul className="space-y-1 1160px:space-y-2 md:text-base">
             {majors.map((item, i) => (
               <li key={i} className="flex items-start gap-1 1160px:gap-2 text-[12px] 490px:text-sm 1340px:text-base 4xl:text-xl">
