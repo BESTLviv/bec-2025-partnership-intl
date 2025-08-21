@@ -1,5 +1,5 @@
 'use client'
-import { forwardRef, useEffect, useState } from "react"
+import { forwardRef, useState } from "react"
 import Image from "next/image"
 import AdditionalOptions from "./ui/AdditionalOptions"
 import Cart from "./Cart"
