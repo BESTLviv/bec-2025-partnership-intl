@@ -16,7 +16,7 @@ const About = forwardRef<HTMLDivElement, object>((_, ref) => {
   ]
 
   return (
-    <section className={`h-72 mt-30 md:mt-50 3xl:mt-60 4xl:mt-70 mb-35 3xl:mb-55 scroll-m-35 relative`} ref={ref}>
+    <section className={`h-72 mt-30 md:mt-40 mb-35 3xl:mb-55 scroll-m-35 relative`} ref={ref}>
       <div className="relative">
         <div className="container flex flex-col 1140px:flex-row 1140px:gap-30 gap-15 3xl:gap-15 4xl:justify-between 3xl:justify-between">
           <div className="flex flex-col gap-5 1240px:text-xl 3xl:text-[22px] 3xl:max-w-[800px] 4xl:text-[24px] xs:px-3">
