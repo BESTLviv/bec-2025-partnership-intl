@@ -89,7 +89,7 @@ const WhyBec = () => {
           bg-no-repeat
           bg-center
           bg-[length:115%]
-          390px:bg-[length:110%]
+          390px:bg-[length:115%]
           410px:bg-[length:115%]
           490px:bg-[length:105%]
           540px:bg-[length:95%]

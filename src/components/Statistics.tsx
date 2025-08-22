@@ -38,7 +38,7 @@ const Statistics = forwardRef<HTMLElement, object>((props, ref) => {
               <span className="font-semibold text-bec">20.5 K</span>
             </p>
             <p className="xs:text-start xs:pl-[54px] 440px:text-center 440px:pl-0">
-              Average monthly engagement –{" "}
+              Average monthly interaction –{" "}
               <span className="font-semibold text-bec">6 K</span>
             </p>
             <p>
@@ -77,7 +77,7 @@ const Statistics = forwardRef<HTMLElement, object>((props, ref) => {
             />
           </div>
           <div className="relative flex flex-col w-[380px] 460px:w-[450px] 940px:w-[500px] 4xl:w-[600px] justify-center pt-5 940px:pt-17 4xl:pt-30 pb-7">
-            <p className="mb-3 text-base 490px:text-lg px-10 leading-tight 4xl:text-xl uppercase">
+            <p className="mb-3 text-base 490px:text-lg px-2 leading-tight 4xl:text-xl uppercase mr-0 580px:mr-12">
               Overall Partner Rating of BEC 2024:
             </p>
             <div className="pl-10 relative h-5 mx-10 border border-bec bg-becblack max-w-[375px]">
@@ -91,7 +91,7 @@ const Statistics = forwardRef<HTMLElement, object>((props, ref) => {
               alt="фон"
               width={90}
               height={40}
-              className="absolute bottom-15 1060px:bottom-18 1060px:right-5 w-full h-[250px] 950px:h-full -z-10"
+              className="absolute bottom-19 1060px:bottom-16 1060px:right-5 w-full h-[250px] 950px:h-full -z-10"
             />
             <p className="text-sm text-gray-300 text-start pt-10 pl-2 4xl:text-base">
               *Partner companies completed a feedback form about the event, where they rated their overall impression of the competition.
